@@ -3645,7 +3645,7 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 var AppComponent = /** @class */ (function () {
     function AppComponent() {
         this.showAdminMenu = true;
-        this.showTeacherMenu = false;
+        this.showTeacherMenu = true;
         this.teacherMenuItems = [
             { url: "/", iconName: "dashboard", title: "My Dashboard" },
             {
