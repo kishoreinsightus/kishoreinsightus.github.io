@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1021,
+        "name": "School organisation",
+        "tag": "SCHOOL_ORG",
+        "checked": false
+    },
+    {
+        "id": 1031,
+        "name": "Sales consulting",
+        "tag": "RETAILER",
+        "checked": false
+    }
+]

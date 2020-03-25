@@ -1,0 +1,190 @@
+{
+    "SYSTEM_ADMIN": [
+        {
+            "id": "GEN_SUB_ADMIN",
+            "displayName": "General subject administration"
+        },
+        {
+            "id": "GEN_SUBJECTS",
+            "displayName": "Subjects"
+        },
+        {
+            "id": "GEN_TOPIC_CONTENT_MAPPING",
+            "displayName": "Video content mapping"
+        },
+        {
+            "id": "GEN_CONCEPT_QUESTIONS",
+            "displayName": "Concept questions"
+        },
+        {
+            "id": "GEN_TOPIC_QUESTIONS",
+            "displayName": "Topic questions"
+        },
+        {
+            "id": "CUR_ADMIN",
+            "displayName": "Curriculum  administration"
+        },
+        {
+            "id": "MANAGE_CUR",
+            "displayName": "Manage curriculums"
+        },
+        {
+            "id": "MANAGE_CUR_SUBS",
+            "displayName": "Manage subjects"
+        },
+        {
+            "id": "MANAGE_LESSON_TOPICS",
+            "displayName": "Manage lesson topics"
+        },
+        {
+            "id": "MANAGE_PRE_REQ_TOPICS",
+            "displayName": "Manage prerequisite topics"
+        },
+        {
+            "id": "CUR_CONTENT_ADMIN",
+            "displayName": "Curriculum content administration"
+        },
+        {
+            "id": "CUR_TOPIC_CONTENT",
+            "displayName": "Video content mapping"
+        },
+        {
+            "id": "CUR_TOPIC_QUESTIONS",
+            "displayName": "Topic questions"
+        },
+        {
+            "id": "ADDNL_LESSON_RES",
+            "displayName": "Additional lesson resources"
+        },
+        {
+            "id": "MANAGE_LESSON_PLANS",
+            "displayName": "Manage lesson plans"
+        },
+        {
+            "id": "ORG_ADMIN",
+            "displayName": "Organisation administration"
+        },
+        {
+            "id": "USER_ADMIN",
+            "displayName": "User administration"
+        },
+        {
+            "id": "STUDENT_PROMO",
+            "displayName": "Student promotions"
+        },
+        {
+            "id": "BASE_PRICE",
+            "displayName": "Base price configuration"
+        },
+        {
+            "id": "PROMOTIONS",
+            "displayName": "Sales promotions"
+        }
+    ],
+    "MASTER_CURRICULUM_ADMIN": [
+        {
+            "id": "CUR_ADMIN",
+            "displayName": "Curriculum  administration"
+        },
+        {
+            "id": "MANAGE_CUR",
+            "displayName": "Manage curriculums"
+        },
+        {
+            "id": "MANAGE_CUR_SUBS",
+            "displayName": "Manage subjects"
+        },
+        {
+            "id": "MANAGE_LESSON_TOPICS",
+            "displayName": "Manage lesson topics"
+        },
+        {
+            "id": "MANAGE_PRE_REQ_TOPICS",
+            "displayName": "Manage prerequisite topics"
+        }
+    ],
+    "MASTER_VIDEO_ADMIN": [
+        {
+            "id": "GEN_TOPIC_CONTENT_MAPPING",
+            "displayName": "Video content mapping"
+        }
+    ],
+    "MASTER_QUESTIONS_ADMIN": [
+        {
+            "id": "GEN_CONCEPT_QUESTIONS",
+            "displayName": "Concept questions"
+        },
+        {
+            "id": "GEN_TOPIC_QUESTIONS",
+            "displayName": "Topic questions"
+        }
+    ],
+    "ORG_VIDEO_ADMIN": [
+        {
+            "id": "CUR_CONTENT_ADMIN",
+            "displayName": "Curriculum content administration"
+        },
+        {
+            "id": "CUR_TOPIC_CONTENT",
+            "displayName": "Video content mapping"
+        }
+    ],
+    "ORG_QUESTIONS_ADMIN": [
+        {
+            "id": "CUR_CONTENT_ADMIN",
+            "displayName": "Curriculum content administration"
+        },
+        {
+            "id": "CUR_TOPIC_QUESTIONS",
+            "displayName": "Topic questions"
+        }
+    ],
+    "MASTER_STUDYMATERIAL_ADMIN": [
+        {
+            "id": "CUR_CONTENT_ADMIN",
+            "displayName": "Curriculum content administration"
+        },
+        {
+            "id": "ADDNL_LESSON_RES",
+            "displayName": "Study material"
+        }
+    ],
+    "ORG_STUDYMATERIAL_ADMIN": [
+        {
+            "id": "CUR_CONTENT_ADMIN",
+            "displayName": "Curriculum content administration"
+        },
+        {
+            "id": "ADDNL_LESSON_RES",
+            "displayName": "Study material"
+        }
+    ],
+    "ORG_MANAGER": [
+        {
+            "id": "ORG_ADMIN",
+            "displayName": "Organisation administration"
+        }
+    ],
+    "SCHOOL_ORG_ADMIN": [
+        {
+            "id": "ORG_ADMIN",
+            "displayName": "Organisation administration"
+        }
+    ],
+    "TECH_SUPPORT": [
+        {
+            "id": "USER_ADMIN",
+            "displayName": "User administration"
+        },
+        {
+            "id": "STUDENT_PROMO",
+            "displayName": "Student promotions"
+        }
+    ],
+    "SALES_SUPPORT": [
+        {
+            "id": "PROMOTIONS",
+            "displayName": "Sales promotions"
+        }
+    ]
+}
